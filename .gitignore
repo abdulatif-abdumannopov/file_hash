@@ -1,0 +1,27 @@
+# IntelliJ / GoLand / VSCode IDE
+.idea/
+*.iml
+*.xml
+
+# Бинарники Go
+*.exe
+*.out
+*.test
+*.so
+*.dll
+*.a
+
+# Сборки fyne
+*.deb
+*.tar.xz
+*.app
+*.desktop
+*.ico
+*.png
+
+# OS-специфичное
+.DS_Store
+Thumbs.db
+
+# Кэш Go
+bin/
